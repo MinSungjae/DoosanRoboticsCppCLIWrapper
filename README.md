@@ -1,11 +1,17 @@
-/*    ========================================================================
-    =               Doosan Robot API C++/CLI Class Wrapper                    =
-    =                   Copyright (c) 2024 KAIST USRG.                        =
-    =_______________________________________________________________________  =
-    = Title             : Doosan Robot API C++/CLI Class Wrapper V1.0         =
-    = Author            : Min Sungjae<sungjae_min@kaist.ac.kr>				        =
-    = Description       : C++/CLI Wrapper for Doosan Robot API tested on v1.9 =
-    ======================================================================== */
+### Doosan Robot API C++/CLI Class Wrapper for C# application development
+## Usage
+Download Doosan Library v1.29
+Download this wrapper
+Develop C# Application
+
+========================================================================
+=               Doosan Robot API C++/CLI Class Wrapper                    =
+=                   Copyright (c) 2024 KAIST USRG.                        =
+=_______________________________________________________________________  =
+= Title             : Doosan Robot API C++/CLI Class Wrapper V1.0         =
+= Author            : Min Sungjae<sungjae_min@kaist.ac.kr>				  =
+= Description       : C++/CLI Wrapper for Doosan Robot API tested on v1.9 =
+======================================================================== */
 
     /*********************************************************************
      * Software License Agreement (BSD License)
